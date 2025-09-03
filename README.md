@@ -3,9 +3,9 @@
 Repo for the hackaton big data 2025 https://bdtech.ai/pt-br/hackathon-2025-regulamento/
 
 Team Rocket:  
-Osvaldo Luiz dos Santos Pereira
-osvald23@gmail.com / olsp@if.ufrj.br
-https://www.linkedin.com/in/ozsp12/
+Osvaldo Luiz dos Santos Pereira  
+osvald23@gmail.com / olsp@if.ufrj.br  
+https://www.linkedin.com/in/ozsp12/  
 
 Felipe Oliveira Lima  
 lima.felipe1433@gmail.com  
